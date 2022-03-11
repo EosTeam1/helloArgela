@@ -1,0 +1,6 @@
+package com.eos.aloarkela.aloarkela2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

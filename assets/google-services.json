@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "329771109111",
+    "project_id": "aloarkela2",
+    "storage_bucket": "aloarkela2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329771109111:android:fbf9ae92de14dea354e1f2",
+        "android_client_info": {
+          "package_name": "com.eos.aloarkela.aloarkela2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329771109111-p7dgvs0r6ic3s0j84486me7g9u54ga5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eos.aloarkela.aloarkela2",
+            "certificate_hash": "4cc845201b20ce4d40b01e5772a3c8e60523bb66"
+          }
+        },
+        {
+          "client_id": "329771109111-litkc7cmnn5fpstlk1h0obp2vcabhtl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqiU8DOH4OimDy1Bq9JYgBQGxVyhRX6Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329771109111-litkc7cmnn5fpstlk1h0obp2vcabhtl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329771109111-f7ipi9jg7vrestr1h5a66751tdfjs3rv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eos.aloarkela.aloarkela2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
